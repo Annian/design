@@ -1096,7 +1096,7 @@ td, th {
 }
 
 .banner-area {
-  background: url(banner.jpg) no-repeat center center/cover;
+  background: url(.../banner.jpg) no-repeat center center/cover;
 }
 
 .banner-area .overlay-bg {
@@ -1239,35 +1239,35 @@ td, th {
 }
 
 .single-filter-content.content-1 {
-  background: url(c1.jpg) no-repeat center center/cover;
+  background: url(.../c1.jpg) no-repeat center center/cover;
 }
 
 .single-filter-content.content-2 {
-  background: url(c2.jpg) no-repeat center center/cover;
+  background: url(.../c2.jpg) no-repeat center center/cover;
 }
 
 .single-filter-content.content-3 {
-  background: url(c3.jpg) no-repeat center center/cover;
+  background: url(.../c3.jpg) no-repeat center center/cover;
 }
 
 .single-filter-content.content-4 {
-  background: url(c4.jpg) no-repeat center center/cover;
+  background: url(.../c4.jpg) no-repeat center center/cover;
 }
 
 .single-filter-content.content-5 {
-  background: url(c5.jpg) no-repeat center center/cover;
+  background: url(.../c5.jpg) no-repeat center center/cover;
 }
 
 .single-filter-content.content-6 {
-  background: url(c6.jpg) no-repeat center center/cover;
+  background: url(.../c6.jpg) no-repeat center center/cover;
 }
 
 .single-filter-content.content-7 {
-  background: url(c7.jpg) no-repeat center center/cover;
+  background: url(.../c7.jpg) no-repeat center center/cover;
 }
 
 .single-filter-content.content-8 {
-  background: url(c8.jpg) no-repeat center center/cover;
+  background: url(.../c8.jpg) no-repeat center center/cover;
 }
 
 .single-member {
