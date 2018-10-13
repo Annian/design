@@ -1239,7 +1239,7 @@ td, th {
 }
 
 .single-filter-content.content-1 {
-  background: url(...c1.jpg) no-repeat center center/cover;
+  background-color: blue;
 }
 
 .single-filter-content.content-2 {
@@ -1247,27 +1247,27 @@ td, th {
 }
 
 .single-filter-content.content-3 {
-  background: url(.../c3.jpg) no-repeat center center/cover;
+  background-color: blue;
 }
 
 .single-filter-content.content-4 {
-  background: url(.../c4.jpg) no-repeat center center/cover;
+  background-color: blue;
 }
 
 .single-filter-content.content-5 {
-  background: url(.../c5.jpg) no-repeat center center/cover;
+  background-color: blue;
 }
 
 .single-filter-content.content-6 {
-  background: url(.../c6.jpg) no-repeat center center/cover;
+  background-color: blue;
 }
 
 .single-filter-content.content-7 {
-  background: url(.../c7.jpg) no-repeat center center/cover;
+  background-color: blue;
 }
 
 .single-filter-content.content-8 {
-  background: url(.../c8.jpg) no-repeat center center/cover;
+  background-color: blue;
 }
 
 .single-member {
